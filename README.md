@@ -46,6 +46,11 @@ SDKインストーラが最新のJava VM（20.0.x） に対応していない。
 
 # 対処方法
 
+JSE 8u311を用いてSDKのインストールをする。詳細な手順は下記の通り。
+
+<br><br>
+
+
 1. java runtinme のバージョンを確認する。
 
         C:\Users\zebra>java -version

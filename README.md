@@ -71,6 +71,8 @@ JSE 8u311を用いてSDKのインストールをする。詳細な手順は下�
     #### LINK-OS MULTIPLATFORM SDK DOWNLOADS & SUPPORT
     https://www.zebra.com/us/en/support-downloads/printer-software/link-os-multiplatform-sdk.html
 
+    ![Alt text](image-4.png)
+
 1. "Java SE Development Kit 8u311"  をアンインストールする。
 
 1. 最新のJDKを再インストールする。
